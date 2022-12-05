@@ -1,1 +1,1 @@
-# Botel-booking
+# Hotel-booking
