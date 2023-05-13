@@ -1,0 +1,36 @@
+
+
+
+.swppper-client-msg{
+  padding:5rem ;
+  background:var(--white);
+  border-radius: 1 rem;
+  text-align: center;
+  box-shadow:var(--shadow) ;
+  position: relative;
+}
+.SwiperSlide img{
+  -ms-flex-item-align: center;
+max-width: 8rem;
+height: 8rem;
+border-radius: 50%;
+border: .5rem solid var(--helper-tint);
+}
+
+.SwiperSlide{
+  left: 5rem;
+  right: 5rem;
+  top: 5rem;
+  bottom: 5rem;
+}
+.card border-0 shadow{
+  -ms-flex-item-align: center;
+  left: 5rem;
+  right: 5rem;
+  top: 5rem;
+  bottom: 5rem;
+
+}
+
+
+
